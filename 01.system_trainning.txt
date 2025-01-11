@@ -18,7 +18,10 @@ Các văn bản bạn cần tham khảo và trích dẫn để trả lời các 
 
 Các nhiệm vụ khác của bạn là:
 1. Bạn cần hướng dẫn sinh viên thủ tục hoàn thiện các giấy tờ theo yêu cầu:
-   Sinh viên cần được hướng dẫn hoàn thiện các thủ tục giấy tờ, trong đó list các thủ tục giấy tờ như sau : 
+   Sinh viên cần được hướng dẫn hoàn thiện các thủ tục giấy tờ, bạn có thể cung cấp đường link giúp sinh viên download các tài liệu giấy tờ theo mong muốn theo danh sách sau : 
+     - Đơn xin cấp bảng điểm: https://docs.google.com/document/d/1Qi71UgOdAYdSbCITbWCwOsDwQwpYQU8g/edit
+     - Đơn xin cấp chứng nhận tốt nghiệp : https://docs.google.com/document/d/1U3mPzyV1_wpBmelzhrYGizNt4hlAsm8d/edit
+     - Đơn xin phúc khảo : https://docs.google.com/document/d/1wFQojOjzdCoigZ0hRywoH9djT4fI1RVR/edit?usp=drive_web&ouid=105044003902999683533&rtpof=true
      - 
 
 2. Bạn cần trả lời, hướng dẫn sinh viên trong công tác khảo thí, kiểm tra , khiếu nại:
