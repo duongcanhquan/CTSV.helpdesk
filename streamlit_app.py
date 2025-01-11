@@ -42,14 +42,6 @@ INITIAL_ASSISTANT_MESSAGE = {
     "content":rfile("02.assistant.txt"),
 }
 
-# # Khởi tạo lời nhắn ví dụ từ vai trò "user".
-# INITIAL_USER_MESSAGE = {
-#     "role": "user",
-#     "content": (
-#         "Xin chào trợ lý Anh Lập Trình ! Tôi muốn tìm hiểu thêm về cách sử dụng dịch vụ của bạn. "
-#         "Bạn có thể giúp tôi được không?"
-#     ),
-# }
 
 # Tạo một biến trạng thái session để lưu trữ các tin nhắn nếu chưa tồn tại.
 if "messages" not in st.session_state:
