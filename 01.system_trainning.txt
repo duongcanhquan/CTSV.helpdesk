@@ -59,8 +59,9 @@ B. Giải đáp các thắc mắc về hồ sơ nhập học khi vào trường:
   - Đối với Hệ 9+ : Học bạ THCS bản chính, Học bạ THCS bản sao, Giấy chứng nhận TN tạm thời bản chính, Giấy chứng nhận TN tạm thời bản sao, Căn cước công dân bản sao, Giấy khai sinh bản sao, Giấy xác nhận cư trú, Giấy đăng ký tạm trú tại Hà Nội (Đối với học sinh ngoại tỉnh), 2	Ảnh 4x6
   Lưu ý : Hồ sơ được lưu trữ tại phòng CTSV - thuộc phòng đào tạo trường CDVM Hà Nội, cơ sở Đinh Lê, Nam Từ Liêm, Hà Nội
 
-C. QUẢN LÝ KIỂM TRA ĐÁNH GIÁ KẾT QUẢ HỌC TẬP CỦA SINH VIÊN
-Điều kiện dự thi kết thúc môn học
+C.Giải đáp các thắc mắc liên quan đến việc QUẢN LÝ KIỂM TRA ĐÁNH GIÁ KẾT QUẢ HỌC TẬP CỦA SINH VIÊN:
+
+C.1 Điều kiện dự thi kết thúc môn học
 Chuyên cần: Tham dự ít nhất 80% thời gian học tập
 b)  Điểm quá trình: Có điểm trung bình chung các bài kiểm tra thường xuyên, định kỳ đạt từ 5,0 điểm trở lên theo thang điểm 10;
 c) Học phí: Đã nộp đủ học phí theo quy định của Nhà trường
@@ -90,7 +91,8 @@ c. Đình chỉ thi: Áp dụng đối với các SV vi phạm một trong nhữ
 => SV bị kỷ luật đình chỉ thi sẽ bị điểm không (0) bài thi kết thúc môn học đó và phải ra khỏi phòng thi ngay sau khi có quyết định đình chỉ.
 Các hình thức kỷ luật nói trên do hai CBCT lập biên bản, thu tang vật và thống nhất hình thức kỷ luật.
 d. Đình chỉ học tập và buộc thôi học: SV thi hộ hoặc nhờ người thi hộ bị kỷ luật ở mức đình chỉ học tập một năm đối với trường hợp vi phạm lần thứ nhất và buộc thôi học đối với trường hợp vi phạm lần thứ hai
-Học lại và thi lại
+
+C.2. Học lại và thi lại
 1. Người học phải học lại và thi lại môn học, mô-đun nếu thuộc một trong các trường hợp:
 a) Không đủ điều kiện dự thi;
 b) Đã hết số lần dự thi kết thúc môn học, mô-đun theo quy định nhưng điểm thi chưa thuộc loại đạt;
@@ -99,7 +101,7 @@ c) Người học theo phương thức tích lũy mô-đun hoặc tín chỉ đ�
 3. Trường hợp không còn môn học, mô-đun do chương trình đào tạo thay đổi thì hiệu trưởng quyết định chọn môn học, mô-đun khác phù hợp với mục tiêu của chương trình để thay thế.
 Lệ phí thi lại: 100.000 đồng/môn; thi cải thiện: 200.000 đồng/môn.
 
-Điểm môn học
+C.3 Điểm môn học
 a) Điểm môn học, mô-đun bao gồm điểm trung bình các điểm kiểm tra có trọng số 0,4 và điểm thi kết thúc môn học, mô-đun có trọng số 0,6;
 b) Điểm trung bình điểm kiểm tra là trung bình cộng của các điểm kiểm tra thường xuyên, điểm kiểm tra định kỳ theo hệ số của từng loại điểm. Trong đó, điểm kiểm tra thường xuyên tính hệ số 1, điểm kiểm tra định kỳ tính hệ số 2;
 c) Điểm môn học, mô-đun được sử dụng theo thang điểm 10 trong đào tạo theo niên chế và thang điểm 4 trong đào tạo theo phương thức tích lũy mô-đun hoặc tín chỉ.
@@ -131,7 +133,7 @@ d) Trường hợp người học được tạm hoãn học môn học, mô-đu
 
 Điểm trung bình chung học kỳ, năm học, điểm trung bình chung tích lũy để xét học bổng, khen thưởng sau mỗi học kỳ, năm học hoặc khóa học được tính theo kết quả điểm thi kết thúc môn học, mô-đun lần thứ nhất; để xét điều chỉnh tiến độ học, buộc thôi học được tính theo kết quả lần thi kết thúc môn học, mô-đun có điểm cao nhất.
 
-Xếp loại kết quả học tập
+C.4. Xếp loại kết quả học tập:
 1. Xếp loại kết quả học tập của người học theo học kỳ căn cứ vào điểm trung bình chung tích lũy theo thang điểm 4 như sau:
 -Xuất sắc: từ 3,50 đến 4,00
 -Giỏi: từ 3,00 đến 3,49
@@ -143,7 +145,7 @@ a) Bị nhà trường kỷ luật từ mức cảnh cáo trở lên trong học
 b) Có 01 môn học hoặc mô-đun trong học kỳ phải thi lại đối với loại xuất sắc, 02 môn học hoặc mô-đun trở lên trong học kỳ phải thi lại đối với loại giỏi, không tính môn học, mô-đun điều kiện; môn học, mô-đun được tạm hoãn học hoặc được miễn trừ.
 3. Kết quả học tập trong học kỳ phụ được gộp vào kết quả học tập trong học kỳ chính để xếp loại.
 
-Cảnh báo KQHT, buộc thôi học, tự thôi học
+C.5. Cảnh báo KQHT, buộc thôi học, tự thôi học:
 
 1. Cảnh báo kết quả học tập được thực hiện theo từng học kỳ, giúp cho người học có kết quả học tập kém biết và có kế hoạch học tập thích hợp để cải thiện kết quả học tập. Việc cảnh báo kết quả học tập của người học được thực hiện khi:
 a) Tổng số môn học, mô-đun không đạt trong học kỳ vượt quá 50% khối lượng học tập đã đăng ký đầu kỳ;
@@ -157,7 +159,7 @@ c) Bị kỷ luật ở mức buộc thôi học.
 a) Người học tự xét thấy không còn khả năng hoàn thành chương trình do thời gian còn lại không đủ để hoàn thành chương trình theo quy định;
 b) Vì lý do khác phải thôi học kèm theo minh chứng cụ thể và được hiệu trưởng chấp thuận.
 
-Điều kiện tốt nghiệp
+C.6. Điều kiện tốt nghiệp
 1. Kết thúc khóa học, hoặc khi người học tích lũy đủ số mô-đun, tín chỉ theo quy định trong chương trình, hiệu trưởng thành lập hội đồng xét tốt nghiệp cho người học.
 2. Người học được công nhận tốt nghiệp khi đủ các điều kiện sau:
 a) Tích lũy đủ số mô-đun, tín chỉ quy định của chương trình;
@@ -168,14 +170,14 @@ d) Không trong thời gian bị kỷ luật từ mức đình chỉ học tập
 3. Trường hợp người học có hành vi vi phạm kỷ luật hoặc vi phạm pháp luật chưa ở mức bị truy cứu trách nhiệm hình sự, hiệu trưởng phải tổ chức xét kỷ luật trước khi xét điều kiện công nhận tốt nghiệp cho người học đó.
 4. Trường hợp người học bị kỷ luật ở mức đình chỉ học tập có thời hạn, hết thời gian bị kỷ luật hoặc bị truy cứu trách nhiệm hình sự và đã có kết luận của cơ quan có thẩm quyền nhưng không thuộc trường hợp bị xử lý kỷ luật ở mức bị buộc thôi học thì được xét công nhận tốt nghiệp.
 
-Xếp loại tốt nghiệp
+C.7. Xếp loại tốt nghiệp
 Xếp loại tốt nghiệp được xác định căn cứ điểm trung bình chung tích lũy của toàn khóa theo quy định 
 2. Người học có điểm xếp loại tốt nghiệp đạt từ loại giỏi trở lên sẽ bị giảm đi một mức xếp loại tốt nghiệp nếu thuộc một trong các trường hợp sau:
 a) Có 01 môn học hoặc mô-đun trong học kỳ phải thi lại đối với loại xuất sắc, 02 môn học hoặc mô-đun trở lên trong học kỳ phải thi lại đối với loại giỏi không tính môn học, mô-đun điều kiện; môn học, mô-đun được tạm hoãn học hoặc được miễn trừ;
 b) Có khối lượng học tập phải học lại quá 10% thời lượng của chương trình đào tạo;
 c) Bị kỷ luật từ mức cảnh cáo trở lên trong thời gian học tập tại trường.
 
-Bằng tốt nghiệp, bảng điểm, giấy chứng nhận kết quả học tập
+C.8. Bằng tốt nghiệp, bảng điểm, giấy chứng nhận kết quả học tập
 Sau khi hoàn thành khóa học người học sẽ được cấp:
 Bằng tốt nghiệp Cao đẳng chính quy theo mẫu của Bộ Lao động – Thương binh và xã hội.
 Lưu ý: Sinh viên tốt nghiệp cao đẳng các ngành, nghề thuộc lĩnh vực Máy tính và công nghệ thông tin; Công nghệ kỹ thuật; Kỹ thuật; Sản xuất và chế biến; Kiến trúc và xây dựng; Nông lâm nghiệp và thủy sản; Dịch vụ vận tải được công nhận danh hiệu kỹ sư thực hành; các ngành, nghề còn lại được công nhận danh hiệu cử nhân thực hành
@@ -183,4 +185,4 @@ Bảng điểm: thể hiện ngành nghề đào tạo, kết quả của các m
 Trường hợp sinh viên chưa được công nhận tốt nghiệp sẽ được cấp giấy chứng nhận kết quả học tập.
 
 
-3. Bạn cầ
+D. 
