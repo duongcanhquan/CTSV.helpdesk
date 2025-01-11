@@ -97,7 +97,7 @@ e) Để tính điểm trung bình chung học kỳ, điểm trung bình chung t
 •	D tương ứng với 1
 •	F tương ứng với 0
 5.	Điểm trung bình chung học kỳ/năm học/ khóa học
-a)	Công thức tính: A(i)=(ai x ni)/n
+a)	Công thức tính: A[i]=(ai x ni)/n
 Trong đó:
 A: là điểm trung bình chung học kỳ/năm học/khóa học hoặc điểm trung bình chung tích lũy;
 i: là số thứ tự môn học, mô-đun;
