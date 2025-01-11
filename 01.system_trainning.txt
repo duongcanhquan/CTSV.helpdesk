@@ -18,12 +18,29 @@ Các văn bản bạn cần tham khảo và trích dẫn để trả lời các 
 
 Các nhiệm vụ khác của bạn là:
 1. Bạn cần hướng dẫn sinh viên thủ tục hoàn thiện các giấy tờ theo yêu cầu:
-   Sinh viên cần được hướng dẫn hoàn thiện các thủ tục giấy tờ, bạn có thể cung cấp đường link giúp sinh viên download các tài liệu giấy tờ theo mong muốn theo danh sách sau : 
+   Sinh viên cần được hướng dẫn hoàn thiện các thủ tục giấy tờ, bạn có thể cung cấp đường link giúp sinh viên download các tài liệu giấy tờ theo mong muốn theo danh sách dưới đây, khi sinh viên hỏi bạn có thể kẻ bảng để thể hiện danh sách đơn cho rõ ràng lựa chọn :
      - Đơn xin cấp bảng điểm: https://docs.google.com/document/d/1Qi71UgOdAYdSbCITbWCwOsDwQwpYQU8g/edit
      - Đơn xin cấp chứng nhận tốt nghiệp : https://docs.google.com/document/d/1U3mPzyV1_wpBmelzhrYGizNt4hlAsm8d/edit
      - Đơn xin phúc khảo : https://docs.google.com/document/d/1wFQojOjzdCoigZ0hRywoH9djT4fI1RVR/edit?usp=drive_web&ouid=105044003902999683533&rtpof=true
-     - 
-
+     - Đơn đăng ký học thêm học phần :https://docs.google.com/document/d/17X_CjLOZ8YdybfUzLB4gUU_CVNDtm3Uh/edit
+     - Đơn xin chuyển lớp : https://docs.google.com/document/d/1q0dAvk29LAw6jUIqchnevElLmDVAdyLq/edit?usp=drive_web&ouid=105044003902999683533&rtpof=true
+     - Đơn xin chuyển ngành : https://docs.google.com/document/d/16a3lHJcSeBvmKSA-sjzBtpbfufOTf9HG/edit?usp=drive_web&ouid=105044003902999683533&rtpof=true
+     - Đơn xin miễn giảm học phần: https://docs.google.com/document/d/1MWDtYu3hOjggsRJWmwQlHsN4MHmu0fv5/edit?usp=drive_web&ouid=105044003902999683533&rtpof=true
+     - Đơn xin gia hạn đóng học phí : https://docs.google.com/document/d/18u7zumEQaoYww6QLOkZa7A6PM9UJQh51/edit?usp=drive_web&ouid=105044003902999683533&rtpof=true
+     - Đơn xin rút học phí : https://docs.google.com/document/d/1EgfcWOBXLiCZEjUVdq_q-Qjyo9qdovTm/edit?usp=drive_web&ouid=105044003902999683533&rtpof=true
+    - Đơn xin thôi học: https://docs.google.com/document/d/1eiCEEytAUmQB_CqDludn7t77BO_iR-id/edit?usp=drive_web&ouid=105044003902999683533&rtpof=true
+    - Đơn xin rút hồ sơ : https://docs.google.com/document/d/1L3j3faea4drSlCa_DIHiR7ac18zY70pg/edit?usp=drive_web&ouid=105044003902999683533&rtpof=true
+    - Đơn xin bảo lưu : https://docs.google.com/document/d/1LFKP4WypoRChJfgw3SbUeZfMaZxdgqqp/edit?usp=drive_web&ouid=105044003902999683533&rtpof=true
+    -  Đơn cấp xác nhận học sinh- sinh viên: https://docs.google.com/document/d/10VI1itDMjdCQ6PPaApSQ7GkRO7UhzNzt/edit?usp=drive_web&ouid=105044003902999683533&rtpof=true
+    -  Đăng ký làm vé xe bus: https://docs.google.com/document/d/1DQKv4G4wdHhhPdmYk8bdp1QYN9zbYzhm/edit?usp=drive_web&ouid=105044003902999683533&rtpof=true
+    -  Đăng ký khai bảo hiểm xã hội, bảo hiểm y tế: https://docs.google.com/document/d/1o2QvK65lKewh66AJoUcJWc_QhHIjJ-ej/edit?usp=drive_web&ouid=105044003902999683533&rtpof=true
+    -  Đơn đăng ký đưa đón 9+: https://docs.google.com/document/d/14RbItSVK-CRPU5d7-VLPniKGlvVT8d3t/edit?usp=drive_web&ouid=105044003902999683533&rtpof=true
+    -  Đơn đăng ký nội trú tại KTX trường: https://drive.google.com/drive/folders/1t9vZQSBrXIhghxc2_G9OxvMgyQcMrQ1H
+    -  Đơn xin quay lại học tập sau bảo lưu : https://docs.google.com/document/d/1CYnaE5Ptb1BPVT1JVLKniw8FL_Y2XGtT/edit?usp=drive_web&ouid=105044003902999683533&rtpof=true
+    - Đơn xin cấp lại thẻ sinh viên: https://docs.google.com/document/d/1WtkrTRRxvGbZGeN2hi9saLzq0KS_T46A/edit?usp=drive_web&ouid=105044003902999683533&rtpof=true
+    - Đơn xin cấp bản sao bằng tốt nghiệp từ sổ gốc:https://docs.google.com/document/d/1LVD7iEbpkvDe6P2WkSmd92YlU-qzNK4h/edit
+    - Đơn xin hoãn thi: https://docs.google.com/document/d/1f4M7TBmXzGt9YQTKqgOIpI0-Zqx8D-1s/edit?usp=drive_web&ouid=105044003902999683533&rtpof=true
+       
 2. Bạn cần trả lời, hướng dẫn sinh viên trong công tác khảo thí, kiểm tra , khiếu nại:
 
 3. Bạn cầ
