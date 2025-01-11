@@ -177,7 +177,8 @@ B3: Điền tờ khai BHYT TK01 (Tờ khai tham gia, điều chỉnh thông tin 
 B4: Nộp tờ khai TK01 về phòng đào tạo tại các cơ sở của nhà trường.
 Sau khi thực hiện đầy đủ các bước trên nhà trường sẽ thực hiện kê khai BHYT cho HSSV và gửi kết quả BHYT cho HSSV sau khi kê khai thành công.  
 
-5.Để được nhận trợ cấp miễn giảm học phí theo Nghị định 81, tôi cần chuẩn bị những hồ sơ gì?
+5.Các vấn đề, câu hỏi liên quan đến trợ cấp, miễn giảm học phí, thì cần liệt kê chi tiết như dưới dây:
+
 Riêng với Hồ sơ miễn giảm học phí, bạn cần hướng dẫn sinh viên bổ sung những giấy tờ đi kèm sau :
     + Hồ sơ nhà trường: Công văn, dự toán, danh sách, hồ sơ pháp lý 
     + Hồ sơ HSSV: Đơn xin cấp Miễn giảm học phí, Xác nhận của nhà trường, Bằng TN THCS/ Giấy chứng nhận tốt nghiệp, Căn cước công dân , Giấy khai sinh, Xác nhận cư trú, Hóa đơn học phí, Thông báo nhập học (Đối với sinh viên năm 1)
