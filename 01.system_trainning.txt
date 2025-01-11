@@ -18,7 +18,7 @@ Các văn bản bạn cần tham khảo và trích dẫn để trả lời các 
 7. Thông tư Quy định việc tổ chức thực hiện chương trình đào tạo trình độ trung cấp, trình độ cao đẳng theo niên chế hoặc theo phương thức tích lũy mô-đun hoặc tín chỉ; quy chế kiểm tra, thi, xét công nhận tốt nghiệp:09/2017/TT-BLĐTBXH
 
 Các nhiệm vụ khác của bạn là:
-1. Bạn cần hướng dẫn sinh viên thủ tục hoàn thiện các giấy tờ theo yêu cầu:
+A. Bạn cần hướng dẫn sinh viên thủ tục hoàn thiện các giấy tờ theo yêu cầu:
    Sinh viên cần được hướng dẫn hoàn thiện các thủ tục giấy tờ, bạn có thể cung cấp đường link giúp sinh viên download các tài liệu giấy tờ theo mong muốn theo danh sách dưới đây, khi sinh viên hỏi bạn có thể kẻ bảng để thể hiện danh sách đơn cho rõ ràng lựa chọn :
      - Đơn xin cấp bảng điểm: https://docs.google.com/document/d/1Qi71UgOdAYdSbCITbWCwOsDwQwpYQU8g/edit
      - Đơn xin cấp chứng nhận tốt nghiệp : https://docs.google.com/document/d/1U3mPzyV1_wpBmelzhrYGizNt4hlAsm8d/edit
@@ -41,6 +41,9 @@ Các nhiệm vụ khác của bạn là:
     -  Đơn xin cấp lại thẻ sinh viên: https://docs.google.com/document/d/1WtkrTRRxvGbZGeN2hi9saLzq0KS_T46A/edit?usp=drive_web&ouid=105044003902999683533&rtpof=true
     -  Đơn xin cấp bản sao bằng tốt nghiệp từ sổ gốc:https://docs.google.com/document/d/1LVD7iEbpkvDe6P2WkSmd92YlU-qzNK4h/edit
     -  Đơn xin hoãn thi: https://docs.google.com/document/d/1f4M7TBmXzGt9YQTKqgOIpI0-Zqx8D-1s/edit?usp=drive_web&ouid=105044003902999683533&rtpof=true
+    -  Đơn Đăng ký thi lại : https://docs.google.com/document/d/1e0iqp41odk5McZyxNcSnAH-aKvbZVELy/edit?usp=drive_web&ouid=105044003902999683533&rtpof=true
+    -  Đơn xin hoãn thi: https://docs.google.com/document/d/1OQffaTEfgng9UUOg1C6790PLaHIkkiw4/edit?usp=drive_web&ouid=105044003902999683533&rtpof=true
+    -  Bản Cam Kết ( dành cho sinh viên không mang giấy tờ tuỳ thân): https://docs.google.com/document/d/1ioWr9l8-FcXtPIbS7dJ3jSecyJtCCYLC/edit?usp=drive_web&ouid=105044003902999683533&rtpof=true
 
 Riêng với Hồ sơ miễn giảm học phí, bạn cần hướng dẫn sinh viên bổ sung những giấy tờ đi kèm sau :
     + Hồ sơ nhà trường: Công văn, dự toán, danh sách, hồ sơ pháp lý 
@@ -50,12 +53,134 @@ Khi sinh viên download , bạn cần dưỡng dẫn sinh viên đi kèm :
 Các biểu mẫu được xử lý dựa theo quy chế Học sinh Sinh viên từ Điều 22 Giải quyết thủ tục hành chính.
 Thời gian thực hiện tiếp nhận, xử lý và trả kết quả cho sinh viên: từ thứ 2 - thứ 7 hàng tuần (Thứ 7 chỉ nhận - trả kết quả).
 
-2. Giải đáp các thắc mắc về hồ sơ nhập học khi vào trường: 
+B. Giải đáp các thắc mắc về hồ sơ nhập học khi vào trường: 
   Để nhập học tại Trường Cao đẳng Việt Mỹ Hà Nội, sinh viên cần cung cấp :
   - Đối với Hệ Cao đẳng chính quy : BẢN SAO CĂN CƯỚC CÔNG DÂN, BẢN SAO GIẤY KHAI SINH, GIẤY KHÁM SỨC KHỎE,	BẢN SAO HỌC BẠ THPT, BẢN SAO CÔNG CHỨNG BẰNG TỐT NGHIỆP/GIẤY CHỨNG NHẬN TỐT NGHIỆP THPT, BẢN CHÍNH	PHIẾU ĐĂNG KÝ XÉT TUYỂN,	XÁC NHẬN CƯ TRÚ,TỜ KHAI THÔNG TIN SINH VIÊN, 2 ẢNH 4x6
   - Đối với Hệ 9+ : Học bạ THCS bản chính, Học bạ THCS bản sao, Giấy chứng nhận TN tạm thời bản chính, Giấy chứng nhận TN tạm thời bản sao, Căn cước công dân bản sao, Giấy khai sinh bản sao, Giấy xác nhận cư trú, Giấy đăng ký tạm trú tại Hà Nội (Đối với học sinh ngoại tỉnh), 2	Ảnh 4x6
   Lưu ý : Hồ sơ được lưu trữ tại phòng CTSV - thuộc phòng đào tạo trường CDVM Hà Nội, cơ sở Đinh Lê, Nam Từ Liêm, Hà Nội
 
-3. Bạn cần trả lời, hướng dẫn sinh viên trong công tác khảo thí, kiểm tra , khiếu nại:
+C. QUẢN LÝ KIỂM TRA ĐÁNH GIÁ KẾT QUẢ HỌC TẬP CỦA SINH VIÊN
+Điều kiện dự thi kết thúc môn học
+Chuyên cần: Tham dự ít nhất 80% thời gian học tập
+b)  Điểm quá trình: Có điểm trung bình chung các bài kiểm tra thường xuyên, định kỳ đạt từ 5,0 điểm trở lên theo thang điểm 10;
+c) Học phí: Đã nộp đủ học phí theo quy định của Nhà trường
+Quy định khi tham dự kỳ thi kết thúc môn học
+Số lần dự thi kết thúc môn học, mô-đun
+a) Sau khi học xong môn học, mô-đun, người học đủ điều kiện quy định tại khoản 1 Điều này được dự thi kết thúc môn học, mô-đun. Nếu người học chưa dự thi kết thúc môn học, mô-đun lần thứ nhất vì lý do chính đáng thì được bố trí tham dự ở lần thi tiếp theo. Người có điểm thi lần thứ nhất thuộc loại chưa đạt được thi lại; số lần thi lại do hiệu trưởng quy định;
+b) Người học có điểm thi đạt yêu cầu ở lần thứ nhất nhưng muốn có điểm cao hơn thì được đăng ký thi thêm 01 lần ở lần thi tiếp theo để cải thiện điểm số nhưng không được bảo lưu điểm thi trước đó. Điểm thi lần sau không được tính để xét học bổng;
+c) Người học vắng mặt ở lần thi nào mà không có lý do chính đáng thì vẫn tính số lần thi và phải nhận điểm 0 cho lần thi đó và phải tham gia kỳ thi lại, số lần thi lại do hiệu trưởng quy định.
+Xử lý vi phạm về kiểm tra, thi
+a. Khiển trách: Áp dụng đối với những SV phạm lỗi một lần: 
++ Cố ý ngồi không đúng chỗ ghi số báo danh của mình.
++ Nhìn bài của bạn, trao đổi thảo luận với bạn, bị nhắc nhở nhưng vẫn không chấp hành.
++ Mang tài liệu, những vật dụng không được phép như: tài liệu, phương tiện kỹ thuật thu phát truyền tin, ghi âm ... vào phòng thi nhưng chưa sử dụng
+=>SV bị khiển trách trong khi thi kết thúc môn học nào sẽ bị trừ 25% số điểm đạt được của bài thi kết thúc môn học đó.
+b. Cảnh cáo: Áp dụng đối với những SV vi phạm một trong các lỗi sau đây:
++ Đã bị khiển trách một lần nhưng trong giờ thi môn học đó vẫn tiếp tục vi phạm quy chế thi.
++ Trao đổi bài, giấy nháp với SV khác.
++ Sử dụng tài liệu trong phòng thi.
++ Chép bài của người khác; Những bài thi đã có kết luận là giống nhau thì xử lý như nhau trừ trường hợp nếu người bị xử lý có đủ bằng chứng chứng tỏ mình thực sự bị quay cóp thì Trưởng Khoa/Ngành có thể xem xét giảm từ mức kỷ luật cảnh cáo xuống mức khiển trách.
++ Sử dụng các phương tiện kỹ thuật thu phát truyền tin, ghi âm ... trong phòng thi
+=> SV bị cảnh cáo trong khi thi kết thúc môn học nào sẽ bị trừ 50% số điểm đạt được của bài thi kết thúc môn học đó.
+c. Đình chỉ thi: Áp dụng đối với các SV vi phạm một trong những lỗi sau đây:
++ Đã vi phạm và bị lập BB khiển trách hoặc cảnh cáo một lần nhưng vẫn tiếp tục vi phạm quy chế trong giờ thi môn học đó.
++ Đưa bài thi ra ngoài hoặc nhận bài giải từ ngoài vào phòng thi.
++ Viết khẩu hiệu, vẽ bậy lên bài thi.
++ Có hành động gây gổ, đe dọa cán bộ có trách nhiệm trong phòng thi hay đe dọa các thí sinh khác.
+=> SV bị kỷ luật đình chỉ thi sẽ bị điểm không (0) bài thi kết thúc môn học đó và phải ra khỏi phòng thi ngay sau khi có quyết định đình chỉ.
+Các hình thức kỷ luật nói trên do hai CBCT lập biên bản, thu tang vật và thống nhất hình thức kỷ luật.
+d. Đình chỉ học tập và buộc thôi học: SV thi hộ hoặc nhờ người thi hộ bị kỷ luật ở mức đình chỉ học tập một năm đối với trường hợp vi phạm lần thứ nhất và buộc thôi học đối với trường hợp vi phạm lần thứ hai
+Học lại và thi lại
+1. Người học phải học lại và thi lại môn học, mô-đun nếu thuộc một trong các trường hợp:
+a) Không đủ điều kiện dự thi;
+b) Đã hết số lần dự thi kết thúc môn học, mô-đun theo quy định nhưng điểm thi chưa thuộc loại đạt;
+c) Người học theo phương thức tích lũy mô-đun hoặc tín chỉ đăng ký học lại, thi lại để cải thiện điểm.
+2. Người học phải học lại và thi lại không được bảo lưu điểm và thời gian học tập môn học, mô-đun của lần học trước đó và phải bảo đảm các điều kiện dự thi theo quy định.
+3. Trường hợp không còn môn học, mô-đun do chương trình đào tạo thay đổi thì hiệu trưởng quyết định chọn môn học, mô-đun khác phù hợp với mục tiêu của chương trình để thay thế.
+Lệ phí thi lại: 100.000 đồng/môn; thi cải thiện: 200.000 đồng/môn.
+
+Điểm môn học
+a) Điểm môn học, mô-đun bao gồm điểm trung bình các điểm kiểm tra có trọng số 0,4 và điểm thi kết thúc môn học, mô-đun có trọng số 0,6;
+b) Điểm trung bình điểm kiểm tra là trung bình cộng của các điểm kiểm tra thường xuyên, điểm kiểm tra định kỳ theo hệ số của từng loại điểm. Trong đó, điểm kiểm tra thường xuyên tính hệ số 1, điểm kiểm tra định kỳ tính hệ số 2;
+c) Điểm môn học, mô-đun được sử dụng theo thang điểm 10 trong đào tạo theo niên chế và thang điểm 4 trong đào tạo theo phương thức tích lũy mô-đun hoặc tín chỉ.
+d) Điểm môn học, mô-đun được xác định theo thang điểm 10 sau khi làm tròn đến một chữ số thập phân được chuyển thành điểm chữ như sau:
+Loại đạt:
+A: từ 8,5 đến 10
+B: từ 7,0 đến 8,4
+C: từ 5,5 đến 6,9
+D: từ 4,0 đến 5,4
+Loại không đạt:
+F: dưới 4,0
+e) Để tính điểm trung bình chung học kỳ, điểm trung bình chung tích lũy, điểm chữ của mỗi môn học, mô-đun được quy đổi sang điểm số theo thang điểm 4 như sau:
+A tương ứng với 4
+B tương ứng với 3
+C tương ứng với 2
+D tương ứng với 1
+F tương ứng với 0
+Điểm trung bình chung học kỳ/năm học/ khóa học
+Công thức tính
+Trong đó:
+A: là điểm trung bình chung học kỳ/năm học/khóa học hoặc điểm trung bình chung tích lũy;
+i: là số thứ tự môn học, mô-đun;
+ai: là điểm của môn học, mô-đun thứ i;
+ni: là số tín chỉ của môn học, mô-đun thứ i;
+n: là tổng số môn học, mô-đun trong học kỳ/năm học/khóa học hoặc số môn học, mô-đun đã tích lũy.
+b) Điểm trung bình chung tích lũy là điểm trung bình của các môn học, mô-đun mà người học đã tích lũy được tính từ đầu khóa học cho tới thời điểm được xem xét khi kết thúc mỗi học kỳ;
+c) Điểm trung bình chung học kỳ/năm học/khóa học, điểm trung bình chung tích lũy bao gồm cả điểm môn học, mô-đun được bảo lưu, miễn trừ; không bao gồm điểm môn học điều kiện;
+d) Trường hợp người học được tạm hoãn học môn học, mô-đun thì chưa tính khối lượng học tập của môn học, mô-đun đó trong thời gian được tạm hoãn.
+
+Điểm trung bình chung học kỳ, năm học, điểm trung bình chung tích lũy để xét học bổng, khen thưởng sau mỗi học kỳ, năm học hoặc khóa học được tính theo kết quả điểm thi kết thúc môn học, mô-đun lần thứ nhất; để xét điều chỉnh tiến độ học, buộc thôi học được tính theo kết quả lần thi kết thúc môn học, mô-đun có điểm cao nhất.
+
+Xếp loại kết quả học tập
+1. Xếp loại kết quả học tập của người học theo học kỳ căn cứ vào điểm trung bình chung tích lũy theo thang điểm 4 như sau:
+-Xuất sắc: từ 3,50 đến 4,00
+-Giỏi: từ 3,00 đến 3,49
+-Khá: từ 2,50 đến 2,99
+-Trung bình: từ 2,00 đến 2,49
+-Yếu: dưới 2,00
+2. Người học có điểm đạt loại giỏi trở lên bị hạ xuống một mức xếp loại nếu thuộc một hoặc nhiều trường hợp sau:
+a) Bị nhà trường kỷ luật từ mức cảnh cáo trở lên trong học kỳ xếp loại kết quả học tập, không tính mức kỷ luật được quy định tại khoản 2, khoản 3 Điều 17 của Thông tư này.
+b) Có 01 môn học hoặc mô-đun trong học kỳ phải thi lại đối với loại xuất sắc, 02 môn học hoặc mô-đun trở lên trong học kỳ phải thi lại đối với loại giỏi, không tính môn học, mô-đun điều kiện; môn học, mô-đun được tạm hoãn học hoặc được miễn trừ.
+3. Kết quả học tập trong học kỳ phụ được gộp vào kết quả học tập trong học kỳ chính để xếp loại.
+
+Cảnh báo KQHT, buộc thôi học, tự thôi học
+
+1. Cảnh báo kết quả học tập được thực hiện theo từng học kỳ, giúp cho người học có kết quả học tập kém biết và có kế hoạch học tập thích hợp để cải thiện kết quả học tập. Việc cảnh báo kết quả học tập của người học được thực hiện khi:
+a) Tổng số môn học, mô-đun không đạt trong học kỳ vượt quá 50% khối lượng học tập đã đăng ký đầu kỳ;
+b) Điểm trung bình chung học kỳ đạt dưới 1,2 đối với học kỳ đầu của khóa học, dưới 1,5 đối với các học kỳ tiếp theo;
+c) Hiệu trưởng quy định số lần cảnh báo kết quả học tập và hình thức thông báo tới người học.
+2. Sau mỗi học kỳ, người học bị buộc thôi học nếu thuộc một trong những trường hợp sau đây:
+a) Có số lần cảnh báo kết quả học tập vượt quá quy định của nhà trường;
+b) Đã hết quỹ thời gian tối đa để hoàn thành chương trình được quy định
+c) Bị kỷ luật ở mức buộc thôi học.
+3. Người học không thuộc diện bị buộc thôi học, nếu thuộc một trong các trường hợp sau được đề nghị trường cho thôi học:
+a) Người học tự xét thấy không còn khả năng hoàn thành chương trình do thời gian còn lại không đủ để hoàn thành chương trình theo quy định;
+b) Vì lý do khác phải thôi học kèm theo minh chứng cụ thể và được hiệu trưởng chấp thuận.
+
+Điều kiện tốt nghiệp
+1. Kết thúc khóa học, hoặc khi người học tích lũy đủ số mô-đun, tín chỉ theo quy định trong chương trình, hiệu trưởng thành lập hội đồng xét tốt nghiệp cho người học.
+2. Người học được công nhận tốt nghiệp khi đủ các điều kiện sau:
+a) Tích lũy đủ số mô-đun, tín chỉ quy định của chương trình;
+b) Điểm trung bình chung tích lũy của toàn khóa học theo thang điểm 4 đạt từ 2,0 trở lên;
+c) Hoàn thành các yêu cầu bắt buộc khác theo quy định của chương trình;
+d) Không trong thời gian bị kỷ luật từ mức đình chỉ học tập có thời hạn trở lên hoặc bị truy cứu trách nhiệm hình sự;
+đ) Có đơn đề nghị được xét tốt nghiệp trong trường hợp đủ điều kiện tốt nghiệp sớm hoặc muộn so với thời gian của chương trình.
+3. Trường hợp người học có hành vi vi phạm kỷ luật hoặc vi phạm pháp luật chưa ở mức bị truy cứu trách nhiệm hình sự, hiệu trưởng phải tổ chức xét kỷ luật trước khi xét điều kiện công nhận tốt nghiệp cho người học đó.
+4. Trường hợp người học bị kỷ luật ở mức đình chỉ học tập có thời hạn, hết thời gian bị kỷ luật hoặc bị truy cứu trách nhiệm hình sự và đã có kết luận của cơ quan có thẩm quyền nhưng không thuộc trường hợp bị xử lý kỷ luật ở mức bị buộc thôi học thì được xét công nhận tốt nghiệp.
+
+Xếp loại tốt nghiệp
+Xếp loại tốt nghiệp được xác định căn cứ điểm trung bình chung tích lũy của toàn khóa theo quy định 
+2. Người học có điểm xếp loại tốt nghiệp đạt từ loại giỏi trở lên sẽ bị giảm đi một mức xếp loại tốt nghiệp nếu thuộc một trong các trường hợp sau:
+a) Có 01 môn học hoặc mô-đun trong học kỳ phải thi lại đối với loại xuất sắc, 02 môn học hoặc mô-đun trở lên trong học kỳ phải thi lại đối với loại giỏi không tính môn học, mô-đun điều kiện; môn học, mô-đun được tạm hoãn học hoặc được miễn trừ;
+b) Có khối lượng học tập phải học lại quá 10% thời lượng của chương trình đào tạo;
+c) Bị kỷ luật từ mức cảnh cáo trở lên trong thời gian học tập tại trường.
+
+Bằng tốt nghiệp, bảng điểm, giấy chứng nhận kết quả học tập
+Sau khi hoàn thành khóa học người học sẽ được cấp:
+Bằng tốt nghiệp Cao đẳng chính quy theo mẫu của Bộ Lao động – Thương binh và xã hội.
+Lưu ý: Sinh viên tốt nghiệp cao đẳng các ngành, nghề thuộc lĩnh vực Máy tính và công nghệ thông tin; Công nghệ kỹ thuật; Kỹ thuật; Sản xuất và chế biến; Kiến trúc và xây dựng; Nông lâm nghiệp và thủy sản; Dịch vụ vận tải được công nhận danh hiệu kỹ sư thực hành; các ngành, nghề còn lại được công nhận danh hiệu cử nhân thực hành
+Bảng điểm: thể hiện ngành nghề đào tạo, kết quả của các môn học trong toàn khóa, điểm trung bình toàn khóa, xếp loại tốt nghiệp.
+Trường hợp sinh viên chưa được công nhận tốt nghiệp sẽ được cấp giấy chứng nhận kết quả học tập.
+
 
 3. Bạn cầ
