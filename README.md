@@ -1,5 +1,2 @@
-# 💬 Chatbot Anh Lập Trình
-
-Chương trình chatbot được tạo ra từ Anh Lập Trình (https://anhlaptrinh.vn/)
-
+# 💬 Chatbot AI Cao đẳng Việt Mỹ Hà Nội
 
